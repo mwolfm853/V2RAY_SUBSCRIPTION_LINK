@@ -146,6 +146,36 @@
   ],
   "outbounds": [
     {
+      "type": "shadowsocks",
+      "tag": "shadowtls-1289",
+      "method": "chacha20-ietf-poly1305", 
+      "password": "5COftGcsEAM5ocrsYyuRgw==",
+      "detour": "stl-1144",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "h2mux",
+        "max_connections": 1,
+        "min_streams": 4,
+        "padding": false
+      }
+    },
+    {
+      "type": "shadowtls",
+      "tag": "stl-1144",
+      "server": "185.126.255.197", 
+      "server_port": 2083,
+      "version": 3, 
+      "password": "yqNK3pCfPoqDXwlasOJeZQ==", 
+      "tls": {
+        "enabled": true,
+        "server_name": "nijigen-works.jp", 
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome" 
+        }
+      }
+    },
+    {
       "type": "hysteria2",
       "tag": "Hysteria2-4768",
       "server": "mehdi3.star-one.cfd", 
@@ -213,6 +243,7 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
+        "shadowtls-1289", 
         "Hysteria2-4768", 
         "Hysteria2-9906"
       ],
@@ -225,6 +256,7 @@
       "type": "selector",
       "tag": "select",
       "outbounds": [
+        "shadowtls-1289", 
         "Hysteria2-4768", 
         "Hysteria2-9906", 
         "auto"
