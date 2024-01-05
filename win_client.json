@@ -146,6 +146,37 @@
   ],
   "outbounds": [
     {
+      "type": "tuic",
+      "tag": "tuic-3679",
+      "server": "mehdi4.star-one.cfd", 
+      "server_port": 2087,
+      "uuid": "7ced636e-56ee-4f8c-9be0-ae987a2856e9", 
+      "password": "gJY75TptRLP+", 
+      "congestion_control": "bbr",
+      "udp_relay_mode": "native",
+      "zero_rtt_handshake": false,
+      "heartbeat": "10s",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "mehdi4.star-one.cfd", 
+        "alpn": [
+          "h3"
+        ],
+        "ech": {
+          "enabled": true,
+          "pq_signature_schemes_enabled": true,
+          "dynamic_record_sizing_disabled": false,
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AFf+DQBTAAAgACBglATOH2uO0ZFbfEns2U5zNNimRAH+DZ01KZDPSm3WAQAIAAEA",
+            "AQABAAMAIFstLXBxLXNpZ25hdHVyZS1zY2hlbWVzLWVuYWJsZWRdAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
+        }
+      }
+    },
+    {
       "type": "shadowsocks",
       "tag": "shadowtls-1289",
       "method": "chacha20-ietf-poly1305", 
@@ -243,6 +274,7 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
+        "tuic-3679", 
         "shadowtls-1289", 
         "Hysteria2-4768", 
         "Hysteria2-9906"
@@ -256,6 +288,7 @@
       "type": "selector",
       "tag": "select",
       "outbounds": [
+        "tuic-3679", 
         "shadowtls-1289", 
         "Hysteria2-4768", 
         "Hysteria2-9906", 
