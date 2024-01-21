@@ -16,7 +16,7 @@ https://t.me/forwardv2ray
 
 
 ✅ 转发配置 V2RAY 和 Telegram 代理
-来自 8378 Telegram 频道和群组
+来自 8823 Telegram 频道和群组
 
 ✅介绍提供v2ray配置试用的网站（免费试用）
 
