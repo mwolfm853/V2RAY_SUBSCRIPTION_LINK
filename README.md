@@ -1,3 +1,14 @@
+#V2RAY SUBSCRIBE LINKS
+
+
+1️⃣https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2ray.txt
+
+2️⃣https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
+
+کانفیگ های موجود در لینک سابسکرایب دوم بصورت منظم بروزرسانی میشود
+https://t.me/forwardv2ray
+
+
 جهت دسترسی به کانفیگ هایV2RAY و پروکسی های تلگرام 8823 کانال و گروه تلگرامی به کانالFORWARDV2RAY مراجعه کنید
 
 https://t.me/forwardv2ray
