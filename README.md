@@ -1,4 +1,4 @@
-#V2RAY SUBSCRIBE LINKS
+✳️V2RAY SUBSCRIBE LINKS
 
 
 1️⃣https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2ray.txt
