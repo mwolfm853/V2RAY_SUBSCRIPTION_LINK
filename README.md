@@ -5,7 +5,8 @@
 
 2️⃣https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
 
-کانفیگ های موجود در لینک سابسکرایب دوم بصورت منظم بروزرسانی میشود
+کانفیگ های موجود در لینک سابسکرایب دوم بصورت منظم بروزرسانی میشوند
+
 https://t.me/forwardv2ray
 
 
