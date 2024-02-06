@@ -1,12 +1,12 @@
 ✳️V2RAY & TELEGRAM PROXY SUBSCRIBE LINKS
 
-https://mehdimoghaddam.sbs/V2ray.txt
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/V2ray.txt
 
-https://mehdimoghaddam.sbs/ss/v2rayconfigs.txt
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
 
 کانفیگ های موجود در لینک سابسکرایب فوق بصورت منظم بروزرسانی میشوند
 
-https://mehdimoghaddam.sbs/sp/TELEGRAM_PROXY.txt
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/Telegram_Proxy.txt
 
 پروکسی های تلگرام موجود در لینک سابسکرایب فوق بصورت منظم بروزرسانی میشوند
 
