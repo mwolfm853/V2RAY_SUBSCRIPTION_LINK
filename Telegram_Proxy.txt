@@ -1,5 +1,3 @@
-LATEST UPDATE: THU-19-BAHMAN-1402 00:14 UTC+03:30
-
 https://t.me/proxy?server=170.64.155.88&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20
 https://t.me/proxy?server=170.64.177.86&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20
 https://t.me/proxy?server=170.64.202.46&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20
