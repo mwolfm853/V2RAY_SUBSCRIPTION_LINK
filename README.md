@@ -1,6 +1,6 @@
 ✳️V2RAY & TELEGRAM PROXY SUBSCRIBE LINKS
 
-https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/V2ray.txt
+
 
 https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
 
