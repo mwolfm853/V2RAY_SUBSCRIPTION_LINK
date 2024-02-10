@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/Telegram_Proxy.
 
 
 
-https://t.me/forwardv2ray
+
 
 
 جهت دسترسی به کانفیگ هایV2RAY و پروکسی های تلگرام 9047 کانال و گروه تلگرامی به کانالFORWARDV2RAY مراجعه کنید
