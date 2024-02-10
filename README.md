@@ -1,4 +1,16 @@
 
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
+
+
+ کانفیگ های موجود در لینک مدام بروزرسانی میشوند
+
+
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/Telegram_Proxy.txt
+
+پروکسی های  موجود در لینک مدام بروزرسانی میشوند
+
+
+
 https://t.me/forwardv2ray
 
 
