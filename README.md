@@ -1,13 +1,18 @@
+👈کانفیگ های V2RAYو پروکسی های تلگرام که در لحظه جاری آپلود شده اند از 9047 کانال و گروه تلگرامی استخراج شده  و در  لینک های سابسکرایب زیر آپلود میشود
+
+
+👈کانفیگ های V2RAY و پروکسی های تلگرام   بصورت منظم بروزرسانی میشوند
+
+
 
 https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
 
 
- کانفیگ های موجود در لینک مدام بروزرسانی میشوند
+ 
 
 
 https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/Telegram_Proxy.txt
 
-پروکسی های  موجود در لینک مدام بروزرسانی میشوند
 
 
 
