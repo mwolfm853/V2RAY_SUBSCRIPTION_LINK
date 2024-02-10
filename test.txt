@@ -1,1 +1,14 @@
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+pip install -r requirements
+source /home/mehdimpi/virtualenv/ssss/3.9/bin/activate && cd /home/mehdimpi/ssss
+python3 -m pip install --upgrade pip
+pip install --upgrade pip
+apt install unzip
+pip3 install -r requirements
+pip3 install urllib3
+pip install urllib3 --user
+py -m pip install urllib3
+pip install pyrogram
+pip3 install -U tgcrypto
+pip3 install -U uvloop
+pip install selenium==3.141.0
+Set-ExecutionPolicy RemoteSigned
