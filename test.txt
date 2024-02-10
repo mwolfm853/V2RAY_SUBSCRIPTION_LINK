@@ -1,14 +1,17 @@
-pip install -r requirements
-source /home/mehdimpi/virtualenv/ssss/3.9/bin/activate && cd /home/mehdimpi/ssss
-python3 -m pip install --upgrade pip
-pip install --upgrade pip
-apt install unzip
-pip3 install -r requirements
-pip3 install urllib3
-pip install urllib3 --user
-py -m pip install urllib3
-pip install pyrogram
-pip3 install -U tgcrypto
-pip3 install -U uvloop
-pip install selenium==3.141.0
-Set-ExecutionPolicy RemoteSigned
+[
+    "whale8",
+    "whale_chanel",
+    "whalepumpgroup23",
+    "whatlovess",
+    "whatsappproxyb",
+    "whatsappproxylink",
+    "white_servers",
+    "white_servers77",
+    "white_servers_turkmenistan",
+    "white_serwers",
+    "white_telekom",
+    "white_vpns",
+    "whitelightline",
+    "whitelistproxy",
+    "whitewhoring202",
+    "whoareyou141",
