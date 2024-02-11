@@ -1,1 +1,4 @@
-، می‌توانید از حالت "w" به جای حالت "w" در تابع open() استفاده کنید. این کار باعث می‌شود که محتوا به صورت جایگزینی در فایل ذخیره شود بدون اضافه کردن سطر خالی.
+=ws&sni=3k.pureboy.eu.org#@m_vipv2ray   
+vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#@m_vipv2ray   
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@join---to.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#@m_vipv2ray   
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#@M_vipv2ray
