@@ -1,7 +1,5 @@
-api_id = 1136290
-api_hash = "5a1d5091d0330e4914d8c24c5848a649"
-channel_username = "@fgeeert"
-max_message_length = 4096  # حداکثر طول پیام در تلگرام
-chunk_send_delay = 2  # تاخیر بین ارسال بخش‌های متوالی به ثانیه
-
-client = TelegramClient('session_name', api_id, api_hash)
+one&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7.v2logy.ir#%E2%9A%A1%40V2PEDIA%E2%9A%A1MCI2   
+vless://ee&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#@m_vipv2ray   
+vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#@m_vipv2ray   
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@join---to.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#@m_vipv2ray   
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#@M_vipv2ray
