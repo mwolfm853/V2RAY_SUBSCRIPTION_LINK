@@ -1,4 +1,31 @@
-=ws&sni=3k.pureboy.eu.org#@m_vipv2ray   
-vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#@m_vipv2ray   
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@join---to.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#@m_vipv2ray   
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#@M_vipv2ray
+👈کانفیگ های V2RAYو پروکسی های تلگرام که در لحظه جاری آپلود شده اند از 9047 کانال و گروه تلگرامی استخراج شده و در لینک های سابسکرایب زیر آپلود میشود
+
+👈کانفیگ های V2RAY و پروکسی های تلگرام بصورت منظم بروزرسانی میشوند
+
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
+
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/Telegram_Proxy.txt
+
+جهت دسترسی به کانفیگ هایV2RAY و پروکسی های تلگرام 9047 کانال و گروه تلگرامی به کانالFORWARDV2RAY مراجعه کنید
+
+https://t.me/forwardv2ray
+
+✅فوروارد کانفیگV2RAYو پروکسی تلگرام از 9047 کانال و گروه تلگرامی
+
+✅معرفی وب سایت های ارائه دهنده کانفیگ هایv2ray بصورت آزمایشی (free trial)
+
+✅معرفی وب سایت هایی که در زمینه اArtificial intelligence (هوش مصنوعی)فعالیت میکنند
+
+کانال تلگرامیFORWARDV2RAY
+
+https://t.me/forwardv2ray
+
+✅ 转发配置 V2RAY 和 Telegram 代理 来自 9047 Telegram 频道和群组
+
+✅介绍提供v2ray配置试用的网站（免费试用）
+
+✅介绍在人工智能领域运营的网站
+
+电报频道 FORWARDV2RAY
+
+https://t.me/forwardv2ray
