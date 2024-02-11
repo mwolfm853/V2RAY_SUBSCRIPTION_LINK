@@ -1,0 +1,9 @@
+ های تلگرام بصورت منظم بروزرسانی میشوند
+
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
+
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/Telegram_Proxy.txt
+
+جهت دسترسی به کانفیگ هایV2RAY و پروکسی های تلگرام 9047 کانال و گروه تلگرامی به کانالFORWARDV2RAY مراجعه کنید
+
+https://t.me/forwardv2ray
