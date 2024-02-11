@@ -1,1 +1,11 @@
-vmess://eyJhZGQiOiJzdWJtZWh0aS5rYXJhajY4LnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiaG9zdCI6IiIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiRXVTZXJ2ZXIgfCDYqtmE2q/Ysdin2YUg2LnYttmIINio2LTbjNivIiwic2N5IjoiYXV0byIsInNuaSI6ImRkMjExNDZ5Z2ZkU05BOTE5MTI4MTI4MGtkbTIya2FzMjEyM0Fhd2RzZDEyMzRiYjkxMTA3MjQ2NjQuc2RmZ2hqa2tra2tra2tra2tqaGdmZHNkZmdoLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+از 9047 کانال و گروه تلگرامی استخراج شده و در لینک های سابسکرایب زیر آپلود میشوند
+
+👈کانفیگ های V2RAY و پروکسی های تلگرام بصورت منظم بروزرسانی میشوند
+
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2rayconfigs.txt
+
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/Telegram_Proxy.txt
+
+جهت دسترسی به کانفیگ هایV2RAY و پروکسی های تلگرام 9047 کانال و گروه تلگرامی به کانالFORWARDV2RAY مراجعه کنید
+
+https://t.me/forwardv2ray
