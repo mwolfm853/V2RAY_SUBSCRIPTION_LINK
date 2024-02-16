@@ -1,8 +1,6 @@
+👈کانفیگ های لینک سابسکرایب زیر  بصورت منظم بروزرسانی میشود
 
-
-
-
-
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt
 
 
 جهت دسترسی به کانفیگ هایV2RAY و پروکسی های تلگرام 9047 کانال و گروه تلگرامی به کانالFORWARDV2RAY مراجعه کنید
